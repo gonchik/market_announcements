@@ -14,9 +14,12 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 * [Nasdaq European Markets](https://www.nasdaq.com/european-markets/status)
 * [NYSE Market Status / System Status](https://www.nyse.com/market-status/history)
 * [NYSE Trading halt](https://www.nyse.com/trade-halt)
+* [NYSE Market Notices](https://www.nyse.com/markets/notices)
 * [CBOE System Status](https://www.cboe.com/us/options/notices/)
 * [CBOE Market Data Notifications](https://www.cboe.com/us/options/notices/marketdata/)
 * [CBOE Titanium System Status](https://www.cboe.com/system_status/)
+* [HKEX Market System Status](https://www.hkex.com.hk/Global/Exchange/Market-System-Status?sc_lang=en)
+
 
 ## Crypto
 
