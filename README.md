@@ -24,12 +24,17 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 * [HKEX Market System Status](https://www.hkex.com.hk/Global/Exchange/Market-System-Status?sc_lang=en)
 
 ## Crypto
-* [Binance](https://www.binance.us/status) - Binance status page
+* [Binance US](https://www.binance.us/status) - Binance status page
 * [Binance Maintenance Updates](https://www.binance.com/en/support/announcement/list/157) - Binance maintenance updates
 * [Bitfinex](https://bitfinex.statuspage.io/) - Bitfinex status page
+* [Bitmart Maint updates](https://bitmart.zendesk.com/hc/en-us/sections/7923672421147-Maintenance-and-Updates) - Bitmart maintenance updates
 * [Bitstamp](https://status.bitstamp.net/) - Bitstamp status page
 * [Bybit](https://announcements.bybit.com/?category=maintenance_updates) - Bybit maintenance updates
+* [Bitvavo](https://status.bitvavo.com/) - Bitvavo status page
 * [Coinbase](https://status.coinbase.com/) - Coinbase status page
+* [Crypto.com](https://status.crypto.com/) - Crypto.com status page
+* [Kucoin Maint updates](https://www.kucoin.com/announcement/maintenance-updates) - Kucoin maintenance updates
+* [Kucoin](https://api.kucoin.com/api/v1/status) - Kucoin API status page
 * [OKX](https://www.okx.com/status) - OKX status page
 * [OKCoin](https://www.okcoin.com/status) - OKCoin status page
 * [Poloniex](https://futures-api.poloniex.com/api/v1/status) - Poloniex status page
