@@ -9,19 +9,31 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 * [Hosting and Cloud](#hosting-and-cloud)
 
 ## Exchanges
+* [ASX Market System Status](https://www.asx.com.au/markets/market-resources/system-status)
+* [CBOE US Equities Market Status](https://www.cboe.com/us/equities/notices/)
+* [CBOE System Status](https://www.cboe.com/us/options/notices/)
+* [CBOE Market Data Notifications](https://www.cboe.com/us/options/notices/marketdata/)
+* [CBOE Titanium System Status](https://www.cboe.com/system_status/)
+* [Deutsche Börse Group - Eurex](https://www.deutsche-boerse.com/dbg-en/markets-services/ps-technology/service-status)
 * [Nasdaq Trader](https://www.nasdaqtrader.com/Trader.aspx?id=MarketSystemStatus)
 * [Nasdaq Data Link](https://status.data.nasdaq.com/)
 * [Nasdaq European Markets](https://www.nasdaq.com/european-markets/status)
 * [NYSE Market Status / System Status](https://www.nyse.com/market-status/history)
 * [NYSE Trading halt](https://www.nyse.com/trade-halt)
 * [NYSE Market Notices](https://www.nyse.com/markets/notices)
-* [CBOE System Status](https://www.cboe.com/us/options/notices/)
-* [CBOE Market Data Notifications](https://www.cboe.com/us/options/notices/marketdata/)
-* [CBOE Titanium System Status](https://www.cboe.com/system_status/)
 * [HKEX Market System Status](https://www.hkex.com.hk/Global/Exchange/Market-System-Status?sc_lang=en)
 
-
 ## Crypto
+* [Binance](https://www.binance.us/status) - Binance status page
+* [Binance Maintenance Updates](https://www.binance.com/en/support/announcement/list/157) - Binance maintenance updates
+* [Bitfinex](https://bitfinex.statuspage.io/) - Bitfinex status page
+* [Bitstamp](https://status.bitstamp.net/) - Bitstamp status page
+* [Bybit](https://announcements.bybit.com/?category=maintenance_updates) - Bybit maintenance updates
+* [Coinbase](https://status.coinbase.com/) - Coinbase status page
+* [OKX](https://www.okx.com/status) - OKX status page
+* [OKCoin](https://www.okcoin.com/status) - OKCoin status page
+* [Poloniex](https://futures-api.poloniex.com/api/v1/status) - Poloniex status page
+* [Kraken](https://status.kraken.com/) - Kraken status page
 
 ## Public Status Pages
 
