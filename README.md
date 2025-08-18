@@ -32,25 +32,43 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 * [TSX (Toronto Stock Exchange) Trading Status](https://www.tsx.com/en/trading/status) - TSX (Toronto Stock Exchange) trading system status
 
 ## Crypto
+* [Alpaca](https://status.alpaca.markets/) - Alpaca status page
+* [Bakkt](https://status.bakkt.com/) - Bakkt status page
 * [Binance US](https://www.binance.us/status) - Binance status page
 * [Binance Maintenance Updates](https://www.binance.com/en/support/announcement/list/157) - Binance maintenance updates
+* [BitGo](https://status.bitgo.com/) - BitGo status page
 * [Bitfinex](https://bitfinex.statuspage.io/) - Bitfinex status page
+* [Bitflyer](https://status.bitflyer.com/) - Bitflyer status page
 * [Bitmart Maint updates](https://bitmart.zendesk.com/hc/en-us/sections/7923672421147-Maintenance-and-Updates) - Bitmart maintenance updates
 * [Bitstamp](https://status.bitstamp.net/) - Bitstamp status page
 * [Bitvavo](https://status.bitvavo.com/) - Bitvavo status page
 * [Bitpanda](https://status.bitpanda.com/) - Bitpanda status page
+* [Bitwave](https://status.bitwave.io/) - Bitwave status page
 * [Bybit](https://announcements.bybit.com/?category=maintenance_updates) - Bybit maintenance updates
 * [Coinbase](https://status.coinbase.com/) - Coinbase status page
+* [Coinbase Custody](https://status.custody.coinbase.com/) - Coinbase Custody status page
+* [Coins.Ph status](https://status.coins.ph/) - Coins.Ph status page
 * [Crypto.com](https://status.crypto.com/) - Crypto.com status page
+* [Chainbase](https://status.chainbase.com/) - Chainbase status page
+* [Delta Exchange](https://status.delta.exchange/) - Delta Exchange status page
+* [Etoro](https://status.etoro.com/) - Etoro status page
 * [Gemini](https://status.gemini.com/) - Gemini status page
 * [Kucoin Maint updates](https://www.kucoin.com/announcement/maintenance-updates) - Kucoin maintenance updates
 * [Kucoin API Status](https://api.kucoin.com/api/v1/status) - KuCoin API operational status
+* [Luno](https://status.luno.com/) - Luno status page
+* [Match2Pay](https://status.match2pay.com/) - Match2Pay status page
+* [MoonPay](https://status.moonpay.com/) - MoonPay status page
+* [Newton](https://status.newton.co/) - Newton platform
 * [OKX](https://www.okx.com/status) - OKX status page
 * [OKCoin](https://www.okcoin.com/status) - OKCoin status page
+* [Paxos](https://status.paxos.com/) - Paxos status page
+* [Poligon](https://polygonstatus.com/) - Polygon status page
 * [Poloniex Futures API Status ](https://futures-api.poloniex.com/api/v1/status) - Poloniex API status endpoint
 * [Probit Deposit and Withdrawal](https://www.probit.com/en-us/dw-status) - Deposit & Withdrawal Status
+* [Robinhood](https://status.robinhood.com/) - Robinhood status page
 * [Kraken](https://status.kraken.com/) - Kraken status page
 * [Sui status page](https://status.sui.io/) - Sui status page
+* [ZeroHash](https://status.zerohash.com/) - Zero Hash status page
 * [Wirex](https://status.wirexapp.com/) - Wirex status page
 
 ## Public Status Pages
@@ -65,6 +83,8 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 * [LexisNexis](https://status.lexisnexisrisk.com/) - LexisNexis status page
 * [Moodis](https://status.maxsight.com/) - Moodis status page
 * [Cisco umbrella](https://status.sse.security.cisco.com/) - Cisco Umbrella status page
+* [Proton](https://status.proton.me/) - Proton status page
+
 
 ## Hosting and Cloud
 * [Alibaba Cloud](https://status.alibabacloud.com/) - Alibaba Cloud status page
