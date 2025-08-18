@@ -10,18 +10,20 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 
 ## Exchanges
 * [ASX Market System Status](https://www.asx.com.au/markets/market-resources/system-status)
-* [CBOE US Equities Market Status](https://www.cboe.com/us/equities/notices/)
+* [Cboe U.S. Equities System Status Notices ](https://www.cboe.com/us/equities/notices/) - System and market notices for Cboe U.S. equities exchanges
+* [Cboe Europe Equities System Status Notices](https://www.cboe.com/europe/equities/notices/) - System status for Cboe Europe equities venues.
 * [CBOE System Status](https://www.cboe.com/us/options/notices/)
 * [CBOE Market Data Notifications](https://www.cboe.com/us/options/notices/marketdata/)
 * [CBOE Titanium System Status](https://www.cboe.com/system_status/)
-* [Deutsche Börse Group - Eurex](https://www.deutsche-boerse.com/dbg-en/markets-services/ps-technology/service-status)
-* [Nasdaq Trader](https://www.nasdaqtrader.com/Trader.aspx?id=MarketSystemStatus)
+* [Deutsche Börse Group - Eurex](https://www.deutsche-boerse.com/dbg-en/markets-services/ps-technology/service-status) - Eurex and Deutsche Börse Group infrastructure status
+* [Euronext Market Status](https://live.euronext.com/en/market-status) - Live status for Euronext markets
+* [Nasdaq Trader Market System Status](https://www.nasdaqtrader.com/Trader.aspx?id=MarketSystemStatus) - Live status across Nasdaq venues 
 * [Nasdaq Data Link](https://status.data.nasdaq.com/)
 * [Nasdaq European Markets](https://www.nasdaq.com/european-markets/status)
-* [NYSE Market Status / System Status](https://www.nyse.com/market-status/history)
+* [NYSE Market Status / System Status](https://www.nyse.com/market-status/history) - Historical NYSE system status 
 * [NYSE Trading halt](https://www.nyse.com/trade-halt)
-* [NYSE Market Notices](https://www.nyse.com/markets/notices)
-* [HKEX Market System Status](https://www.hkex.com.hk/Global/Exchange/Market-System-Status?sc_lang=en)
+* [NYSE Market Notices](https://www.nyse.com/markets/notices) - NYSE market and trading notices 
+* [HKEX Market System Status](https://www.hkex.com.hk/Global/Exchange/Market-System-Status?sc_lang=en) - Centralized HKEX trading system status 
 
 ## Crypto
 * [Binance US](https://www.binance.us/status) - Binance status page
@@ -34,13 +36,16 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 * [Coinbase](https://status.coinbase.com/) - Coinbase status page
 * [Crypto.com](https://status.crypto.com/) - Crypto.com status page
 * [Kucoin Maint updates](https://www.kucoin.com/announcement/maintenance-updates) - Kucoin maintenance updates
-* [Kucoin](https://api.kucoin.com/api/v1/status) - Kucoin API status page
+* [Kucoin API Status](https://api.kucoin.com/api/v1/status) - KuCoin API operational status
 * [OKX](https://www.okx.com/status) - OKX status page
 * [OKCoin](https://www.okcoin.com/status) - OKCoin status page
-* [Poloniex](https://futures-api.poloniex.com/api/v1/status) - Poloniex status page
+* [Poloniex Futures API Status ](https://futures-api.poloniex.com/api/v1/status) - Poloniex API status endpoint
+* [Probit Deposit and Withdrawal](https://www.probit.com/en-us/dw-status) - Deposit & Withdrawal Status
 * [Kraken](https://status.kraken.com/) - Kraken status page
 
 ## Public Status Pages
+* [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare status page
+
 
 ## Hosting and Cloud
 * [Alibaba Cloud](https://status.alibabacloud.com/) - Alibaba Cloud status page
