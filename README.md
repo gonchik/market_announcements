@@ -9,26 +9,33 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 * [Hosting and Cloud](#hosting-and-cloud)
 
 ## Exchanges
-* [ASX Market System Status](https://www.asx.com.au/markets/market-resources/system-status)
+* [ASX Market System Status](https://www.asx.com.au/markets/market-resources/system-status) - Australian Securities Exchange (ASX) market system status
+* [Aquis Stock Exchange](https://www.aquis.eu/status) - Aquis Exchange status page
+* [BOX Options Market Status](https://boxoptions.com/box-system-alerts/) - BOX (Boston Options Exchange) market status
+* [BME Spanish Stock Exchange](https://www.bolsasymercados.es/en/market-status.html) - BME (Bolsas y Mercados Españoles) Spanish Stock Exchange market status
 * [Cboe U.S. Equities System Status Notices ](https://www.cboe.com/us/equities/notices/) - System and market notices for Cboe U.S. equities exchanges
 * [Cboe Europe Equities System Status Notices](https://www.cboe.com/europe/equities/notices/) - System status for Cboe Europe equities venues.
+* [Cboe Europe Derivatives (CEDX) Notices](https://www.cboe.com/europe/derivatives/notices/) - System status for Cboe Europe derivatives venues
 * [CBOE System Status](https://www.cboe.com/us/options/notices/)
 * [CBOE Market Data Notifications](https://www.cboe.com/us/options/notices/marketdata/)
-* [CBOE Titanium System Status](https://www.cboe.com/system_status/)
+* [Cboe Global System Status (Titanium) ](https://www.cboe.com/system_status/)
 * [Deutsche Börse Group - Eurex](https://www.deutsche-boerse.com/dbg-en/markets-services/ps-technology/service-status) - Eurex and Deutsche Börse Group infrastructure status
 * [Euronext Market Status](https://live.euronext.com/en/market-status) - Live status for Euronext markets
+* [ICE Market](https://www.ice.com/alerts/markets) - Intercontinental Exchange (ICE) market status
 * [Nasdaq Trader Market System Status](https://www.nasdaqtrader.com/Trader.aspx?id=MarketSystemStatus) - Live status across Nasdaq venues 
 * [Nasdaq Data Link](https://status.data.nasdaq.com/)
 * [Nasdaq European Markets](https://www.nasdaq.com/european-markets/status)
-* [NYSE Market Status / System Status](https://www.nyse.com/market-status/history) - Historical NYSE system status 
+* [NYSE Arca / NYSE American System Status](https://www.nyse.com/market-status/history) - Historical NYSE system status 
 * [NYSE Trading halt](https://www.nyse.com/trade-halt)
 * [NYSE Market Notices](https://www.nyse.com/markets/notices) - NYSE market and trading notices 
 * [HKEX Market System Status](https://www.hkex.com.hk/Global/Exchange/Market-System-Status?sc_lang=en) - Centralized HKEX trading system status
 * [Japan Exchange Group Status Page](https://www.jpx.co.jp/english/systems/system-status/index.html) - Japan Exchange Group system status
+* [Japan Exchange Group Market System Status](https://www.jpx.co.jp/english/systems/system-status/01.html) - Japan Exchange Group Market System Status
 * [London Stock Exchange Market Status](https://www.lseg.com/markets-products-and-services/market-status) - London Stock Exchange market status
-* [Refinitiv Status Request](https://fmc.refinitiv.com/checkstatus) - Refinitiv system status request Private
 * [LSEG dev live system status](https://dev-liveservice.lseg.com/)
 * [LSEG prod live system status](https://liveservice.lseg.com/) - LSEG live system status
+* [Refinitiv Status Request](https://fmc.refinitiv.com/checkstatus) - Refinitiv system status request Private
+* [Singapore Exchange (SGX) market updates](https://www.sgx.com/securities/market-updates) - Singapore Exchange (SGX) market updates
 * [TSX (Toronto Stock Exchange) Trading Status](https://www.tsx.com/en/trading/status) - TSX (Toronto Stock Exchange) trading system status
 
 ## Crypto
