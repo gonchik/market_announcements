@@ -1,5 +1,7 @@
 # Market announcement pages
-List of status pages financial services like exchanges, crypto, funds, and related public status pages of major internet companies.
+
+List of status pages for financial services including exchanges, crypto platforms, funds, clearing houses, 
+and related public status pages of major internet companies.
 
 ### Table of Contents
 
@@ -14,26 +16,26 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 * [BOX Options Market Status](https://boxoptions.com/box-system-alerts/) - BOX (Boston Options Exchange) market status
 * [BME Spanish Stock Exchange](https://www.bolsasymercados.es/en/market-status.html) - BME (Bolsas y Mercados Españoles) Spanish Stock Exchange market status
 * [Cboe U.S. Equities System Status Notices ](https://www.cboe.com/us/equities/notices/) - System and market notices for Cboe U.S. equities exchanges
-* [Cboe Europe Equities System Status Notices](https://www.cboe.com/europe/equities/notices/) - System status for Cboe Europe equities venues.
+* [Cboe Europe Equities System Status Notices](https://www.cboe.com/europe/equities/notices/) - System status for Cboe Europe equities venues
 * [Cboe Europe Derivatives (CEDX) Notices](https://www.cboe.com/europe/derivatives/notices/) - System status for Cboe Europe derivatives venues
-* [CBOE System Status](https://www.cboe.com/us/options/notices/)
-* [CBOE Market Data Notifications](https://www.cboe.com/us/options/notices/marketdata/)
-* [Cboe Global System Status (Titanium) ](https://www.cboe.com/system_status/)
+* [CBOE System Status](https://www.cboe.com/us/options/notices/) - System and market notices for Cboe U.S. options exchanges
+* [CBOE Market Data Notifications](https://www.cboe.com/us/options/notices/marketdata/) - Cboe Market data and feed notifications
+* [Cboe Global System Status (Titanium) ](https://www.cboe.com/system_status/) - Consolidated Cboe systems status
 * [Deutsche Börse Group - Eurex](https://www.deutsche-boerse.com/dbg-en/markets-services/ps-technology/service-status) - Eurex and Deutsche Börse Group infrastructure status
 * [Euronext Market Status](https://live.euronext.com/en/market-status) - Live status for Euronext markets
 * [ICE Market](https://www.ice.com/alerts/markets) - Intercontinental Exchange (ICE) market status
 * [Nasdaq Trader Market System Status](https://www.nasdaqtrader.com/Trader.aspx?id=MarketSystemStatus) - Live status across Nasdaq venues 
-* [Nasdaq Data Link](https://status.data.nasdaq.com/)
-* [Nasdaq European Markets](https://www.nasdaq.com/european-markets/status)
+* [Nasdaq Data Link](https://status.data.nasdaq.com/) - Nasdaq Data Link status page
+* [Nasdaq European Markets](https://www.nasdaq.com/european-markets/status) - Status for Nasdaq European markets
 * [NYSE Arca / NYSE American System Status](https://www.nyse.com/market-status/history) - Historical NYSE system status 
-* [NYSE Trading halt](https://www.nyse.com/trade-halt)
+* [NYSE Trading halt](https://www.nyse.com/trade-halt) - NYSE current and historical trading halts
 * [NYSE Market Notices](https://www.nyse.com/markets/notices) - NYSE market and trading notices 
 * [HKEX Market System Status](https://www.hkex.com.hk/Global/Exchange/Market-System-Status?sc_lang=en) - Centralized HKEX trading system status
 * [Japan Exchange Group Status Page](https://www.jpx.co.jp/english/systems/system-status/index.html) - Japan Exchange Group system status
 * [Japan Exchange Group Market System Status](https://www.jpx.co.jp/english/systems/system-status/01.html) - Japan Exchange Group Market System Status
 * [London Stock Exchange Market Status](https://www.lseg.com/markets-products-and-services/market-status) - London Stock Exchange market status
-* [LSEG dev live system status](https://dev-liveservice.lseg.com/)
-* [LSEG prod live system status](https://liveservice.lseg.com/) - LSEG live system status
+* [LSEG dev live system status](https://dev-liveservice.lseg.com/) - LSEG (London Stock Exchange) Development environment live service status
+* [LSEG prod live system status](https://liveservice.lseg.com/) - LSEG production live system status
 * [Refinitiv Status Request](https://fmc.refinitiv.com/checkstatus) - Refinitiv system status request Private
 * [Singapore Exchange (SGX) market updates](https://www.sgx.com/securities/market-updates) - Singapore Exchange (SGX) market updates
 * [TSX (Toronto Stock Exchange) Trading Status](https://www.tsx.com/en/trading/status) - TSX (Toronto Stock Exchange) trading system status
@@ -77,6 +79,7 @@ List of status pages financial services like exchanges, crypto, funds, and relat
 * [Sui status page](https://status.sui.io/) - Sui status page
 * [ZeroHash](https://status.zerohash.com/) - Zero Hash status page
 * [Wirex](https://status.wirexapp.com/) - Wirex status page
+* [Federal Reserve Financial Services Status](https://www.frbservices.org/app/status/serviceStatus.do) - Federal Reserve Financial Services status page
 
 ## Public Status Pages
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare status page
