@@ -50,6 +50,7 @@ and related public status pages of major internet companies.
 * [Bitflyer](https://status.bitflyer.com/) - Bitflyer status page
 * [Bitget](https://www.bitget.com/pagestatus) - Biget status page
 * [Bitmart Maint updates](https://bitmart.zendesk.com/hc/en-us/sections/7923672421147-Maintenance-and-Updates) - Bitmart maintenance updates
+* [Bitmex](https://blog.bitmex.com/site_announcement/) Bitmex maintenance updates
 * [Bitstamp](https://status.bitstamp.net/) - Bitstamp status page
 * [Bitvavo](https://status.bitvavo.com/) - Bitvavo status page
 * [Bitpanda](https://status.bitpanda.com/) - Bitpanda status page
@@ -61,8 +62,12 @@ and related public status pages of major internet companies.
 * [Crypto.com](https://status.crypto.com/) - Crypto.com status page
 * [Chainbase](https://status.chainbase.com/) - Chainbase status page
 * [Delta Exchange](https://status.delta.exchange/) - Delta Exchange status page
+* [Deribit](https://support.deribit.com/hc/en-us/sections/25944714518429-2025-Releases/) Deribit maintenance updates
 * [Etoro](https://status.etoro.com/) - Etoro status page
 * [Gemini](https://status.gemini.com/) - Gemini status page
+* [Gateio](https://gateiosupportnumber.statuspage.io/history) Gateio status page
+* [HitBTC](https://hitbtc.com/system-monitor) HitBTC system monitor
+* [HTX](https://www.htx.com/support/) HTX maintenance updates
 * [Kucoin Maint updates](https://www.kucoin.com/announcement/maintenance-updates) - Kucoin maintenance updates
 * [Kucoin API Status](https://api.kucoin.com/api/v1/status) - KuCoin API operational status
 * [Luno](https://status.luno.com/) - Luno status page
@@ -75,6 +80,7 @@ and related public status pages of major internet companies.
 * [Paxos](https://status.paxos.com/) - Paxos status page
 * [Poligon](https://polygonstatus.com/) - Polygon status page
 * [Poloniex Futures API Status ](https://futures-api.poloniex.com/api/v1/status) - Poloniex API status endpoint
+* [PrimeXBT](https://status.primexbt.com/) PrimeXBT status page
 * [Probit Deposit and Withdrawal](https://www.probit.com/en-us/dw-status) - Deposit & Withdrawal Status
 * [Robinhood](https://status.robinhood.com/) - Robinhood status page
 * [Kraken](https://status.kraken.com/) - Kraken status page
@@ -82,6 +88,7 @@ and related public status pages of major internet companies.
 * [ZeroHash](https://status.zerohash.com/) - Zero Hash status page
 * [Wirex](https://status.wirexapp.com/) - Wirex status page
 * [Federal Reserve Financial Services Status](https://www.frbservices.org/app/status/serviceStatus.do) - Federal Reserve Financial Services status page
+* [XT](https://xtsupport.zendesk.com/hc/en-us/sections/900000084263-System-Upgrade-and-Maintenance/) - XT System Upgrade and Maintenance
 
 ## Market Data Providers and Financial Services
 * [Thomson Reuters](https://corporates-status.thomsonreuters.com/) - Thomson Reuters status page
