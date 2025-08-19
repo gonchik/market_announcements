@@ -48,6 +48,7 @@ and related public status pages of major internet companies.
 * [BitGo](https://status.bitgo.com/) - BitGo status page
 * [Bitfinex](https://bitfinex.statuspage.io/) - Bitfinex status page
 * [Bitflyer](https://status.bitflyer.com/) - Bitflyer status page
+* [Bitget](https://www.bitget.com/pagestatus) - Biget status page
 * [Bitmart Maint updates](https://bitmart.zendesk.com/hc/en-us/sections/7923672421147-Maintenance-and-Updates) - Bitmart maintenance updates
 * [Bitstamp](https://status.bitstamp.net/) - Bitstamp status page
 * [Bitvavo](https://status.bitvavo.com/) - Bitvavo status page
@@ -66,6 +67,7 @@ and related public status pages of major internet companies.
 * [Kucoin API Status](https://api.kucoin.com/api/v1/status) - KuCoin API operational status
 * [Luno](https://status.luno.com/) - Luno status page
 * [Match2Pay](https://status.match2pay.com/) - Match2Pay status page
+* [MEXC](https://www.mexc.com/support/sections/15425930840740) - MEXC maintenance updates
 * [MoonPay](https://status.moonpay.com/) - MoonPay status page
 * [Newton](https://status.newton.co/) - Newton platform
 * [OKX](https://www.okx.com/status) - OKX status page
