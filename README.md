@@ -81,25 +81,30 @@ and related public status pages of major internet companies.
 * [Wirex](https://status.wirexapp.com/) - Wirex status page
 * [Federal Reserve Financial Services Status](https://www.frbservices.org/app/status/serviceStatus.do) - Federal Reserve Financial Services status page
 
-## Public Status Pages
-* [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare status page
+## Market Data Providers and Financial Services
+* [Thomson Reuters](https://corporates-status.thomsonreuters.com/) - Thomson Reuters status page
 * [LMAX](https://status.lmax.com/) - LMAX status page
-* [Open Exchange Rates API Status](https://status.openexchangerates.org/) - Open Exchange Rates API Status
-* [Open Threat Exchange](https://status.otx.alienvault.com//) - Open Threat Exchange status page
+* [Moody's Maxsight](https://status.maxsight.com/) - Moody's status page
+* [LexisNexis](https://status.lexisnexisrisk.com/) - LexisNexis status page
+* [OSL Digital Securities](https://status.osl.com/) - OSL Digital Securities trading platform status page
 * [Scalable Capital](https://status.scalable.capital/) - Scalable Capital status page
 * [Validis](https://status.validis.com/) - Validis - Platform, Products, APIs and related services.
-* [OSL](https://status.osl.com/) - OSL Digital Securities trading platform status page
-* [Thomson Reuters](https://corporates-status.thomsonreuters.com/) - Thomson Reuters status page
-* [LexisNexis](https://status.lexisnexisrisk.com/) - LexisNexis status page
-* [Moodis](https://status.maxsight.com/) - Moodis status page
-* [Cisco umbrella](https://status.sse.security.cisco.com/) - Cisco Umbrella status page
-* [Proton](https://status.proton.me/) - Proton status page
+* [Tink Status](https://status.tink.com/) - Tink financial services status
 
+
+## Public Status Pages
+
+### Security and Infrastructure
+* [Cisco Umbrella](https://status.sse.security.cisco.com/) - Cisco Umbrella status page
+* [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare status page
+* [Open Threat Exchange](https://status.otx.alienvault.com//) - Open Threat Exchange status page
+* [Open Exchange Rates API Status](https://status.openexchangerates.org/) - Open Exchange Rates API Status
+* [Proton](https://status.proton.me/) - Proton status page
 
 ## Hosting and Cloud
 * [Alibaba Cloud](https://status.alibabacloud.com/) - Alibaba Cloud status page
 * [AWS](https://status.aws.amazon.com/) - AWS status page
-* [Azure Microsoft Cloud](https://status.cloud.microsoft/) - Microsoft products status page
+* [Microsoft Azure](https://status.cloud.microsoft/) - Microsoft products status page
 * [Cloudways](https://status.cloudways.com) - Cloudways status page
 * [DigitalOcean](https://status.digitalocean.com) - DigitalOcean status page
 * [DomaiNesia](https://www.domainesia.com/status) - DomaiNesia status page
@@ -117,7 +122,16 @@ and related public status pages of major internet companies.
 * [Scaleway](https://status.scaleway.com/) - Scaleway status page
 * [UpCloud](https://status.upcloud.com) - UpCloud status page
 * [Vercel](https://www.vercel-status.com/) - Vercel status page
-* [Verizon](https://status.vzconnect.com/) - Verizon Connect status page
+* [Verizon Connect](https://status.vzconnect.com/) - Verizon Connect status page
 * [Vultr](https://status.vultr.com) - Vultr status page
-* [Workspace ONE](https://status.workspaceone.com) - VMware Workspace ONE status page
 * [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page
+* [Workspace ONE](https://status.workspaceone.com) - VMware Workspace ONE status page
+
+
+**Note**: Some links may require credentials, market data subscriptions, or specific entitlements to view detailed status information. 
+Status pages may be temporarily inaccessible during maintenance windows or system outages.
+
+**Contributing**: To suggest additions or corrections to this list, please submit issues or pull requests to the repository.
+
+**Disclaimer**: This list is provided for informational purposes only. 
+Always verify the current operational status directly with the respective service providers for critical trading or financial decisions.
