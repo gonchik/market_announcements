@@ -56,6 +56,7 @@ and related public status pages of major internet companies.
 * [Bitpanda](https://status.bitpanda.com/) - Bitpanda status page
 * [Bitwave](https://status.bitwave.io/) - Bitwave status page
 * [Bybit](https://announcements.bybit.com/?category=maintenance_updates) - Bybit maintenance updates
+* [BTCturk](https://status.btcturk.com/) - BTCturk status page - Turkish exchange
 * [Coinbase](https://status.coinbase.com/) - Coinbase status page
 * [Coinbase Custody](https://status.custody.coinbase.com/) - Coinbase Custody status page
 * [Coins.Ph status](https://status.coins.ph/) - Coins.Ph status page
